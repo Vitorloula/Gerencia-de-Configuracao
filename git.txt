@@ -1,3 +1,5 @@
+ola, isso é um resumo
+
 PS C:\Users\vitor\OneDrive\Área de Trabalho\Gerência de Configuração> git init - vai inicializar o git 
 Reinitialized existing Git repository in C:/Users/vitor/OneDrive/Área de Trabalho/Gerência de Configuração/.git/
 PS C:\Users\vitor\OneDrive\Área de Trabalho\Gerência de Configuração> git add teste
