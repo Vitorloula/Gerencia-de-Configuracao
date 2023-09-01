@@ -101,3 +101,5 @@ PS C:\Users\vitor\OneDrive\Área de Trabalho\Gerência de Configuração> git re
 7168770 (HEAD -> master) HEAD@{0}: reset: moving to 7168770
 035162e (origin/master) HEAD@{1}: commit: nova linha add em teste.txt
 7168770 (HEAD -> master) HEAD@{2}: commit (initial): commit inicial
+
+git pull - vai servir pra atualiza o repositorio local com a versão remota
